@@ -1,1 +1,1 @@
-require('gmap-custom-marker.vue');
+require('./gmap-custom-marker.vue');
